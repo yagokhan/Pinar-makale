@@ -15,10 +15,11 @@ Olgu temelli kardiyak anestezi kitap bölümlerinin, yayınevinin **Kitap Yazım
 - Başlıklar: ana başlık **14 pt BÜYÜK HARF kalın** (1., 2. …); 1. derece alt başlık **12 pt kalın** (1.1.); 2./3. derece **11 pt kalın** (1.1.1.).
 - Bölüm başlığı ortalı, büyük harf, önünde bölüm numarası (`BÖLÜM n`).
 - Sayfa: **A4**, dört kenardan **2,5 cm** boşluk; sayfa numarası / üst-alt bilgi yok.
-- Kaynaklar `KAYNAKLAR` ana başlığı altında **numaralı** listede.
+- **Metin içeriği birebir korundu** — hiçbir cümle/kaynak yeniden yazılmadı, silinmedi, eklenmedi. Yapılan tek metinsel değişiklik yazar adlarının kurala göre büyük-küçük harf düzeltmesidir.
+- Kaynaklar, yazarın yerleştirdiği gibi **her alt bölümün sonunda** durmaktadır (tek konsolide liste hâline GETİRİLMEDİ).
 
 ## Yazar/editör için yapılacaklar
 
-- **Metin-içi atıflar:** Taslaklarda metin-içi atıf yoktu. Kılavuz, noktalama sonrası **üst-simge Vancouver** atıf istiyor (örn. `…yapılmıştır.1-3`). Kaynaklar numaralandırıldı; üst-simgelerin metne yerleştirilmesi gerekiyor.
+- **Kaynak/atıf sistemi:** Kılavuz, noktalama sonrası **üst-simge Vancouver** atıf + sonda tek **numaralı** kaynak listesi istiyor. Mevcut taslaklarda metin-içi atıf yok ve kaynaklar bölümlere dağıtık. İstenirse: (a) tüm kaynaklar tekilleştirilip sonda numaralı `KAYNAKLAR` listesine toplanabilir, (b) üst-simge atıflar metne yerleştirilebilir — bu adım ayrıca yapılmalı.
 - **Bölüm numaraları** (`BÖLÜM 1…4`) kitap içindeki gerçek sıraya göre güncellenmeli.
 - Şekil/tablo eklenirse `Şekil n.m` / `Tablo n.m` adlandırması ve metinde atıf kuralları uygulanmalı.
