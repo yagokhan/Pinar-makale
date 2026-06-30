@@ -8,6 +8,7 @@ Olgu temelli kardiyak anestezi kitap bölümlerinin, yayınevinin **Kitap Yazım
 | `Bolum2_Mitral_Kapak_Cerrahisi_Anestezi_Yonetimi.docx` | Mitral Kapak Cerrahisi Anestezi Yönetimi |
 | `Bolum3_Minimal_Invaziv_Kardiyak_Cerrahi_Anestezi_Yonetimi.docx` | Minimal İnvaziv Kardiyak Cerrahi Anestezi Yönetimi |
 | `Bolum4_Kardiyak_Transplantasyon_Anestezi_Yonetimi.docx` | Kardiyak Transplantasyon Anestezi Yönetimi |
+| `Bolum5_Sol_Ventrikul_Destek_Cihazi_Cerrahisi_Anestezi_Yonetimi.docx` | Sol Ventrikül Destek Cihazı Cerrahisi Anestezi Yönetimi |
 
 ## Uygulanan format (kılavuza göre)
 
