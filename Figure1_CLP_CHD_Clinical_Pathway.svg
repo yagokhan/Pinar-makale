@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="940" height="1140" viewBox="0 0 940 1140">
+<rect x="0" y="0" width="940" height="1140" fill="#FFFFFF"/>
+<rect x="3" y="3" width="934" height="1134" fill="none" stroke="#DAD9D3" stroke-width="2" rx="6"/>
+<defs><marker id="arw" markerWidth="10" markerHeight="10" refX="7" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 Z" fill="#8C8C86"/></marker></defs>
+<rect x="170.0" y="60.0" width="380.0" height="84.0" rx="14" ry="14" fill="#EDECE8" stroke="#C6C3BB" stroke-width="1.4"/>
+<text x="360.0" y="96.0" font-family="Liberation Sans, Arial, sans-serif" font-size="21" fill="#4A4A44" text-anchor="middle" font-weight="700" >Child with CLP</text>
+<text x="360.0" y="122.0" font-family="Liberation Sans, Arial, sans-serif" font-size="14.5" fill="#6E6C64" text-anchor="middle" font-weight="400" >For cleft lip or palate repair</text>
+<line x1="360" y1="144" x2="360" y2="182" stroke="#8C8C86" stroke-width="2.2" marker-end="url(#arw)"/>
+<rect x="170.0" y="184.0" width="380.0" height="84.0" rx="14" ry="14" fill="#DCE9F7" stroke="#9EC1E6" stroke-width="1.4"/>
+<text x="360.0" y="220.0" font-family="Liberation Sans, Arial, sans-serif" font-size="21" fill="#1F4E79" text-anchor="middle" font-weight="700" >Preoperative screening</text>
+<text x="360.0" y="246.0" font-family="Liberation Sans, Arial, sans-serif" font-size="14.5" fill="#3F6A96" text-anchor="middle" font-weight="400" >Echocardiography and cardiology review</text>
+<line x1="360" y1="268" x2="360" y2="306" stroke="#8C8C86" stroke-width="2.2" marker-end="url(#arw)"/>
+<rect x="170.0" y="308.0" width="380.0" height="84.0" rx="14" ry="14" fill="#DCE9F7" stroke="#2E6FB0" stroke-width="2.4"/>
+<text x="360.0" y="344.0" font-family="Liberation Sans, Arial, sans-serif" font-size="21" fill="#1F4E79" text-anchor="middle" font-weight="700" >CHD present?</text>
+<text x="360.0" y="370.0" font-family="Liberation Sans, Arial, sans-serif" font-size="14.5" fill="#3F6A96" text-anchor="middle" font-weight="400" >Confirm on echocardiography</text>
+<line x1="360" y1="392" x2="360" y2="430" stroke="#8C8C86" stroke-width="2.2" marker-end="url(#arw)"/>
+<rect x="170.0" y="432.0" width="380.0" height="84.0" rx="14" ry="14" fill="#DCE9F7" stroke="#9EC1E6" stroke-width="1.4"/>
+<text x="360.0" y="468.0" font-family="Liberation Sans, Arial, sans-serif" font-size="21" fill="#1F4E79" text-anchor="middle" font-weight="700" >Preoperative optimization</text>
+<text x="360.0" y="494.0" font-family="Liberation Sans, Arial, sans-serif" font-size="14.5" fill="#3F6A96" text-anchor="middle" font-weight="400" >Medications, coagulation, short fast</text>
+<line x1="360" y1="516" x2="360" y2="554" stroke="#8C8C86" stroke-width="2.2" marker-end="url(#arw)"/>
+<rect x="170.0" y="556.0" width="380.0" height="84.0" rx="14" ry="14" fill="#DCEEE4" stroke="#A2D0B8" stroke-width="1.4"/>
+<text x="360.0" y="592.0" font-family="Liberation Sans, Arial, sans-serif" font-size="21" fill="#1E6B4E" text-anchor="middle" font-weight="700" >Intraoperative goals</text>
+<text x="360.0" y="618.0" font-family="Liberation Sans, Arial, sans-serif" font-size="14.5" fill="#3C8266" text-anchor="middle" font-weight="400" >Maintain SVR, avoid a rise in PVR</text>
+<line x1="360" y1="640" x2="360" y2="678" stroke="#8C8C86" stroke-width="2.2" marker-end="url(#arw)"/>
+<rect x="170.0" y="680.0" width="380.0" height="84.0" rx="14" ry="14" fill="#DCEEE4" stroke="#A2D0B8" stroke-width="1.4"/>
+<text x="360.0" y="716.0" font-family="Liberation Sans, Arial, sans-serif" font-size="21" fill="#1E6B4E" text-anchor="middle" font-weight="700" >Airway and analgesia</text>
+<text x="360.0" y="742.0" font-family="Liberation Sans, Arial, sans-serif" font-size="14.5" fill="#3C8266" text-anchor="middle" font-weight="400" >Videolaryngoscopy; regional block</text>
+<line x1="360" y1="764" x2="360" y2="802" stroke="#8C8C86" stroke-width="2.2" marker-end="url(#arw)"/>
+<rect x="170.0" y="804.0" width="380.0" height="84.0" rx="14" ry="14" fill="#FBE9D2" stroke="#EDC792" stroke-width="1.4"/>
+<text x="360.0" y="840.0" font-family="Liberation Sans, Arial, sans-serif" font-size="21" fill="#9A5A16" text-anchor="middle" font-weight="700" >Postoperative monitoring</text>
+<text x="360.0" y="866.0" font-family="Liberation Sans, Arial, sans-serif" font-size="14.5" fill="#A9702E" text-anchor="middle" font-weight="400" >Direct ICU if complex; watch for Tet spells</text>
+<line x1="360" y1="888" x2="360" y2="926" stroke="#8C8C86" stroke-width="2.2" marker-end="url(#arw)"/>
+<rect x="170.0" y="928.0" width="380.0" height="84.0" rx="14" ry="14" fill="#FBE9D2" stroke="#EDC792" stroke-width="1.4"/>
+<text x="360.0" y="964.0" font-family="Liberation Sans, Arial, sans-serif" font-size="21" fill="#9A5A16" text-anchor="middle" font-weight="700" >Early feeding and discharge</text>
+<text x="360.0" y="990.0" font-family="Liberation Sans, Arial, sans-serif" font-size="14.5" fill="#A9702E" text-anchor="middle" font-weight="400" >Semi-upright feeds; parent education</text>
+<text x="370.0" y="416.0" font-family="Liberation Sans, Arial, sans-serif" font-size="14" fill="#3F6A96" text-anchor="start" font-weight="700" >Yes</text>
+<line x1="550.0" y1="350.0" x2="648" y2="350.0" stroke="#8C8C86" stroke-width="2.2" marker-end="url(#arw)"/>
+<text x="600.0" y="342.0" font-family="Liberation Sans, Arial, sans-serif" font-size="14" fill="#6E6C64" text-anchor="middle" font-weight="700" >No</text>
+<rect x="650.0" y="308.0" width="250.0" height="84.0" rx="14" ry="14" fill="#EDECE8" stroke="#C6C3BB" stroke-width="1.4"/>
+<text x="775.0" y="344.0" font-family="Liberation Sans, Arial, sans-serif" font-size="19" fill="#4A4A44" text-anchor="middle" font-weight="700" >Standard pathway</text>
+<text x="775.0" y="370.0" font-family="Liberation Sans, Arial, sans-serif" font-size="14.5" fill="#6E6C64" text-anchor="middle" font-weight="400" >Routine cleft care</text>
+<rect x="118.0" y="1043.0" width="20.0" height="20.0" rx="5" ry="5" fill="#DCE9F7" stroke="#9EC1E6" stroke-width="1.4"/>
+<text x="146.0" y="1059.0" font-family="Liberation Sans, Arial, sans-serif" font-size="15.5" fill="#4A4A44" text-anchor="start" font-weight="400" >Preoperative</text>
+<rect x="313.0" y="1043.0" width="20.0" height="20.0" rx="5" ry="5" fill="#DCEEE4" stroke="#A2D0B8" stroke-width="1.4"/>
+<text x="341.0" y="1059.0" font-family="Liberation Sans, Arial, sans-serif" font-size="15.5" fill="#4A4A44" text-anchor="start" font-weight="400" >Intraoperative</text>
+<rect x="508.0" y="1043.0" width="20.0" height="20.0" rx="5" ry="5" fill="#FBE9D2" stroke="#EDC792" stroke-width="1.4"/>
+<text x="536.0" y="1059.0" font-family="Liberation Sans, Arial, sans-serif" font-size="15.5" fill="#4A4A44" text-anchor="start" font-weight="400" >Postoperative</text>
+<rect x="703.0" y="1043.0" width="20.0" height="20.0" rx="5" ry="5" fill="#EDECE8" stroke="#C6C3BB" stroke-width="1.4"/>
+<text x="731.0" y="1059.0" font-family="Liberation Sans, Arial, sans-serif" font-size="15.5" fill="#4A4A44" text-anchor="start" font-weight="400" >General</text>
+</svg>
